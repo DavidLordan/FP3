@@ -1,7 +1,6 @@
 # FP3: Team Declaration
 
 ### Team Members
-* github names and real names.
 * David Lordan, gitHub name: DavidLordan
 * Kevin Ornellas, gitHub name: kevinseeker
 * Steven Scheffelaar Klots, gitHub name: Steven-ScheffelaarKlots
