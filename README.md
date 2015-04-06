@@ -20,13 +20,9 @@ This will allow users to select a particular type of wave to generate and a spec
 We would also like to extend the above features in order to build a synthesizer that can take keyboard inputs
 to generate specific notes. 
 
+We're also considering using a Racket graphing library to show visualizations of generated tones.
+
 ### Libraries You Plan to Use 
 RSound and The Racket Graphical Interface Toolkit
 
-### How to Do and Submit this assignment
-
-1. To start, [**fork** this repository][forking].
-1. This assignment is just one README.md file, so you can edit it right in github.
-1. Modify the README.md file and [**commit**][ref-commit] changes.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-
