@@ -23,5 +23,3 @@ We're also considering using a Racket graphing library to show visualizations of
 
 ### Libraries You Plan to Use 
 RSound and The Racket Graphical Interface Toolkit
-
-1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
