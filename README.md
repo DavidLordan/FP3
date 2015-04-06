@@ -7,7 +7,7 @@
 
 
 ### A Team Name
-RacketSynth
+Team RacketSynth
 
 ### Project Title
 RacketSynth
